@@ -17,7 +17,7 @@ Unlike traditional "Retrieve-then-Read" RAG pipelines, this project implements a
 
 ## 📱App UI
 
-![Application UI]("docs/app_ui.png")
+![Application UI](docs/app_ui.png)
 
 ---
 
